@@ -8,6 +8,6 @@ namespace Class_Method_Demo
     {
         public string FullName { get; set; }
         public string Occupation { get; set; }
-        public int MyProperty { get; set; }
+        public string TCKN { get; set; }
     }
 }
